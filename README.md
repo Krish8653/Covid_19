@@ -7,4 +7,4 @@ You will need Power BI desktop(can be downloaded from Microsoft store or this li
 
 ### Acknowledgement
 
-The dataset for this project has been taken from Johns Hopkins University's github page. Please check https://github.com/CSSEGISandData/COVID-19 for additional information.
+The dataset for this project has been taken from Johns Hopkins University's github page and modified by Krish8653 as per report's demand. Please check https://github.com/CSSEGISandData/COVID-19 for additional licensing information.
